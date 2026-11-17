@@ -1,0 +1,6 @@
+{
+  "name": "Tribuna Central",
+  "description": "Dashboard deportivo institucional en modo oscuro con tarjetas de partidos estilo glassmorphism y tabla de posiciones interactiva en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
